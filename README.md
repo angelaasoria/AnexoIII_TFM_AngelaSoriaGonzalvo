@@ -1,0 +1,1 @@
+Este repositorio contiene los  scripts utilizados para el procesamiento y metaanálisis de los estudios analizados en el Trabajo Final de Máster 'Caracterización de las diferencias de sexo en la enfermedad de Alzheimer en corteza prefrontal mediante estrategias basadas en el análisis masivo de datos de célula única
